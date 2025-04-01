@@ -1,7 +1,0 @@
-C:/Users/Mateusz/Desktop/projects/BreakBuddy/build/CMakeFiles/hello.dir
-C:/Users/Mateusz/Desktop/projects/BreakBuddy/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Mateusz/Desktop/projects/BreakBuddy/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/Mateusz/Desktop/projects/BreakBuddy/build/vendored/SDL/CMakeFiles/SDL3-shared.dir
-C:/Users/Mateusz/Desktop/projects/BreakBuddy/build/vendored/SDL/CMakeFiles/SDL3_test.dir
-C:/Users/Mateusz/Desktop/projects/BreakBuddy/build/vendored/SDL/CMakeFiles/SDL_uclibc.dir
-C:/Users/Mateusz/Desktop/projects/BreakBuddy/build/vendored/SDL/CMakeFiles/ALL_BUILD.dir
